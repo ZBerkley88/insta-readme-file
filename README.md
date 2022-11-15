@@ -3,7 +3,7 @@
 
 ## Description
 
-The purpose of this project was to create a README generator using N Node.js. I wanted a simple , step-by-step process to create  a genereric README file for a project. 
+The purpose of this project was to create a README generator using Node.js. I wanted a simple, step-by-step process to create a genereric README file for any project. 
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@ n/a
 
 ## Usage
 
-Upon completing your project, run the README writer in your terminal and follow the instructions to generate a README.
+Upon completing your project, run the README writer in your terminal using `node index.js` and follow the instructions to generate a README.
 
 ## Credits
 
